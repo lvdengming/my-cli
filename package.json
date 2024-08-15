@@ -1,0 +1,18 @@
+{
+    "name": "my-cli",
+    "version": "0.0.1",
+    "description": "Personal cli tools.",
+    "main": "src/index.js",
+    "bin": {
+        "my-cli": "./src/index.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "cli",
+        "node"
+    ],
+    "author": "lvdengming@foxmail.com",
+    "license": "MIT"
+}
